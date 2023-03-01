@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C++ Project<br><br>🌱 I’m currently learning Java<br><br>👨‍💻 All of my projects are available at https://github.com/anjanshrestha8/Projects.git<br><br>📫 How to reach me anjanshrestha2023@gmail.com<br><br>📄 Know about my experiences<br><br>⚡ Fun fact I mostly listen to loofi music<br><br>
+🔭 I’m currently working on Arduino & Java Project<br><br>🌱 I’m currently learning Java<br><br>👨‍💻 All of my projects are available at https://github.com/anjanshrestha8/Projects.git<br><br>📫 How to reach me anjanshrestha2023@gmail.com<br><br>📄 Know about my experiences<br><br>⚡ Fun fact I mostly listen to loofi music<br><br>
 
 
 ## 🌐 Socials:
