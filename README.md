@@ -5,10 +5,10 @@
   <a href="https://www.hackerrank.com/anjanshrestha201">
     <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.instagram.com/anjanshrestha8/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://www.facebook.com/profile.php?id=100028309041653">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
