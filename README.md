@@ -28,5 +28,5 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Graphic Designer<img src="https://media3.giphy.com/media/eIrFgsuPjwUhYv4acC/giphy.gif?cid=ecf05e47w8y22eixsl1lhj277bc4k7sd7ughnw4qwjeskoub&rid=giphy.gif&ct=g" width="30">.
+I am a Graphic Designer<img src="" width="30">.
 
