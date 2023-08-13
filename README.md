@@ -29,11 +29,11 @@
  
 - :telescope: I’m working as a Graphic Designer and contributing for building UI/UIX design.
 
-- :seedling: I'm currently learning Java Language and exploring coding.
+- :seedling: I'm currently learning Frontend Language and exploring coding.
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
-- :mailbox: How to reach me: anjanshrestha2023@gmail.com
+- :mailbox: How to reach me: ajnstha2003@gmail.com
 
 
 ## 🏆 GitHub Trophies
