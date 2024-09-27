@@ -25,9 +25,8 @@
 </h1>
 
 ### :woman_technologist: About Me :
-✍️ I am a passionate Graphic Designer........<img src="https://qph.cf2.quoracdn.net/main-qimg-cc310333ebd7461e4becaed4ffadcbb7-lq" width="20"> 
+✍️ I am a passionate Software Developer........<img src="https://qph.cf2.quoracdn.net/main-qimg-cc310333ebd7461e4becaed4ffadcbb7-lq" width="20"> 
  
-- :telescope: I’m working as a Graphic Designer and contributing for building UI/UIX design.
 
 - :seedling: I'm currently learning Frontend Language and exploring coding.
 
